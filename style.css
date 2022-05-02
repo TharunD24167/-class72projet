@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    text-shadow: 5px;
+}
+#video{
+    width: 100%;
+    border: none;
+    height: 500px;
+}
